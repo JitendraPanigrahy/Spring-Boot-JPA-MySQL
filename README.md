@@ -3,7 +3,7 @@
 
 ## Implementing some use cases for Inventory Management System
 
-### Steps to run project
+### Steps to run project and test API
 
 ```
 i. download the zip or  clone the repository from Git Hub
