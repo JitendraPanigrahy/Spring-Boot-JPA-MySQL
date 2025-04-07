@@ -1,5 +1,5 @@
 
-# SpringBoot REST API using Spring Boot, Data JPA and MySQL
+# SpringBoot REST API using Spring Boot, Data JPA and MySQL - Monolithic project
 
 ## Implementing some use cases for Inventory Management System
 
